@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TaurusxAdsSDK",
-            url: "https://github.com/taurusxteam/taurusx-ads-swift-package/releases/download/1.18.4/TaurusxAdsSDK.zip",
-            checksum: "dbe05d495e98d94b6b5da308d2ec8648eaa449884e97839fb7f6bfc2b1da813b"
+            url: "https://github.com/taurusxteam/taurusx-ads-swift-package/releases/download/1.19.2/TaurusxAdsSDK.zip",
+            checksum: "9e3c6b23ca099c10f11bf5c8cbede7bf12b0e861d059ac5e13c8f207d60af86a"
         )
     ]
 )
